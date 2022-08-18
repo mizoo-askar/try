@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- constraint Layout padding -->
+    <dimen name="root_layout_padding">4dp</dimen>
+
+    <!-- button -->
+    <dimen name="btn_width">22dp</dimen>
+    <dimen name="btn_height">20dp</dimen>
+    <dimen name="btn_textSize">12sp</dimen>
+
+    <!-- textView input -->
+    <dimen name="tv_input_height">48dp</dimen>
+    <dimen name="tv_text_input_size">28sp</dimen>
+
+    <!-- textView Output -->
+    <dimen name="tv_output_height">28dp</dimen>
+    <dimen name="tv_text_output_size">28sp</dimen>
+
+</resources>
