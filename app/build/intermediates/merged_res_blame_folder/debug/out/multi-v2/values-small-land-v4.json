@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.mizoo.askar.calculator.app-mergeDebugResources-23:/values-small-land-v4/values-small-land-v4.xml",
+            "map": [
+                {
+                    "source": "F:\\Calculator\\app\\src\\main\\res\\values-small-land\\dimens.xml",
+                    "from": {
+                        "startLines": "8,9,7,4,12,16,13,17",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "215,258,173,99,334,465,382,514",
+                        "endColumns": "41,43,40,49,46,47,49,50",
+                        "endOffsets": "252,297,209,144,376,508,427,560"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,97,141,182,232,279,327,377",
+                        "endColumns": "41,43,40,49,46,47,49,50",
+                        "endOffsets": "92,136,177,227,274,322,372,423"
+                    }
+                }
+            ]
+        }
+    ]
+}

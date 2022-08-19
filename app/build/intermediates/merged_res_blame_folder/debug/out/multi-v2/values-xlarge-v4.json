@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.mizoo.askar.calculator.app-mergeDebugResources-23:/values-xlarge-v4/values-xlarge-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Mizoo Askar\\.gradle\\caches\\transforms-3\\846bd1e6ef12a6d68419ac9e045844bf\\transformed\\appcompat-1.4.2\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,126,197,267,337,405",
+                        "endColumns": "70,70,69,69,67,67",
+                        "endOffsets": "121,192,262,332,400,468"
+                    }
+                },
+                {
+                    "source": "F:\\Calculator\\app\\src\\main\\res\\values-xlarge\\dimens.xml",
+                    "from": {
+                        "startLines": "8,9,7,4,12,16,13,17",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "217,261,174,99,337,469,386,519",
+                        "endColumns": "42,43,41,50,47,48,49,50",
+                        "endOffsets": "255,300,211,145,380,513,431,565"
+                    },
+                    "to": {
+                        "startLines": "8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "473,516,560,602,653,701,750,800",
+                        "endColumns": "42,43,41,50,47,48,49,50",
+                        "endOffsets": "511,555,597,648,696,745,795,846"
+                    }
+                }
+            ]
+        }
+    ]
+}

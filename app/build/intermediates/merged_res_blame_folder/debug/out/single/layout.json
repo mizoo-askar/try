@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Mizoo Askar\\.gradle\\daemon\\7.3.3\\com.mizoo.askar.calculator.app-mergeDebugResources-24:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Mizoo Askar\\.gradle\\daemon\\7.3.3\\com.mizoo.askar.calculator.app-main-27:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.mizoo.askar.calculator.app-mergeDebugResources-24:/layout/activity_main.xml",
+        "source": "com.mizoo.askar.calculator.app-main-27:/layout/activity_main.xml"
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "C:\\Users\\Mizoo Askar\\.gradle\\daemon\\7.3.3\\com.mizoo.askar.calculator.app-merged_res-25:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Mizoo Askar\\.gradle\\daemon\\7.3.3\\com.mizoo.askar.calculator.app-main-27:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Mizoo Askar\\.gradle\\daemon\\7.3.3\\com.mizoo.askar.calculator.app-merged_res-25:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Mizoo Askar\\.gradle\\daemon\\7.3.3\\com.mizoo.askar.calculator.app-main-27:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Mizoo Askar\\.gradle\\daemon\\7.3.3\\com.mizoo.askar.calculator.app-merged_res-25:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Mizoo Askar\\.gradle\\daemon\\7.3.3\\com.mizoo.askar.calculator.app-main-27:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mizoo Askar\\.gradle\\daemon\\7.3.3\\com.mizoo.askar.calculator.app-merged_res-25:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Mizoo Askar\\.gradle\\daemon\\7.3.3\\com.mizoo.askar.calculator.app-main-27:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Mizoo Askar\\.gradle\\daemon\\7.3.3\\com.mizoo.askar.calculator.app-merged_res-25:\\layout-xlarge-land_activity_main.xml.flat",
+        "source": "C:\\Users\\Mizoo Askar\\.gradle\\daemon\\7.3.3\\com.mizoo.askar.calculator.app-main-27:\\layout-xlarge-land\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mizoo Askar\\.gradle\\daemon\\7.3.3\\com.mizoo.askar.calculator.app-merged_res-25:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Mizoo Askar\\.gradle\\daemon\\7.3.3\\com.mizoo.askar.calculator.app-main-27:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mizoo Askar\\.gradle\\daemon\\7.3.3\\com.mizoo.askar.calculator.app-merged_res-25:\\layout-small_activity_main.xml.flat",
+        "source": "C:\\Users\\Mizoo Askar\\.gradle\\daemon\\7.3.3\\com.mizoo.askar.calculator.app-main-27:\\layout-small\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mizoo Askar\\.gradle\\daemon\\7.3.3\\com.mizoo.askar.calculator.app-merged_res-25:\\layout-large-land_activity_main.xml.flat",
+        "source": "C:\\Users\\Mizoo Askar\\.gradle\\daemon\\7.3.3\\com.mizoo.askar.calculator.app-main-27:\\layout-large-land\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mizoo Askar\\.gradle\\daemon\\7.3.3\\com.mizoo.askar.calculator.app-merged_res-25:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Mizoo Askar\\.gradle\\daemon\\7.3.3\\com.mizoo.askar.calculator.app-main-27:\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Mizoo Askar\\.gradle\\daemon\\7.3.3\\com.mizoo.askar.calculator.app-merged_res-25:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Mizoo Askar\\.gradle\\daemon\\7.3.3\\com.mizoo.askar.calculator.app-main-27:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Mizoo Askar\\.gradle\\daemon\\7.3.3\\com.mizoo.askar.calculator.app-merged_res-25:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Mizoo Askar\\.gradle\\daemon\\7.3.3\\com.mizoo.askar.calculator.app-main-27:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Mizoo Askar\\.gradle\\daemon\\7.3.3\\com.mizoo.askar.calculator.app-merged_res-25:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Mizoo Askar\\.gradle\\daemon\\7.3.3\\com.mizoo.askar.calculator.app-main-27:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mizoo Askar\\.gradle\\daemon\\7.3.3\\com.mizoo.askar.calculator.app-merged_res-25:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Mizoo Askar\\.gradle\\daemon\\7.3.3\\com.mizoo.askar.calculator.app-main-27:\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Mizoo Askar\\.gradle\\daemon\\7.3.3\\com.mizoo.askar.calculator.app-merged_res-25:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Mizoo Askar\\.gradle\\daemon\\7.3.3\\com.mizoo.askar.calculator.app-main-27:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Mizoo Askar\\.gradle\\daemon\\7.3.3\\com.mizoo.askar.calculator.app-merged_res-25:\\layout-xlarge_activity_main.xml.flat",
+        "source": "C:\\Users\\Mizoo Askar\\.gradle\\daemon\\7.3.3\\com.mizoo.askar.calculator.app-main-27:\\layout-xlarge\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mizoo Askar\\.gradle\\daemon\\7.3.3\\com.mizoo.askar.calculator.app-merged_res-25:\\layout-land_activity_main.xml.flat",
+        "source": "C:\\Users\\Mizoo Askar\\.gradle\\daemon\\7.3.3\\com.mizoo.askar.calculator.app-main-27:\\layout-land\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mizoo Askar\\.gradle\\daemon\\7.3.3\\com.mizoo.askar.calculator.app-merged_res-25:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Mizoo Askar\\.gradle\\daemon\\7.3.3\\com.mizoo.askar.calculator.app-main-27:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Mizoo Askar\\.gradle\\daemon\\7.3.3\\com.mizoo.askar.calculator.app-merged_res-25:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Mizoo Askar\\.gradle\\daemon\\7.3.3\\com.mizoo.askar.calculator.app-main-27:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Mizoo Askar\\.gradle\\daemon\\7.3.3\\com.mizoo.askar.calculator.app-merged_res-25:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Mizoo Askar\\.gradle\\daemon\\7.3.3\\com.mizoo.askar.calculator.app-main-27:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Mizoo Askar\\.gradle\\daemon\\7.3.3\\com.mizoo.askar.calculator.app-merged_res-25:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Mizoo Askar\\.gradle\\daemon\\7.3.3\\com.mizoo.askar.calculator.app-main-27:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Mizoo Askar\\.gradle\\daemon\\7.3.3\\com.mizoo.askar.calculator.app-merged_res-25:\\layout-small-land_activity_main.xml.flat",
+        "source": "C:\\Users\\Mizoo Askar\\.gradle\\daemon\\7.3.3\\com.mizoo.askar.calculator.app-main-27:\\layout-small-land\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mizoo Askar\\.gradle\\daemon\\7.3.3\\com.mizoo.askar.calculator.app-merged_res-25:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Mizoo Askar\\.gradle\\daemon\\7.3.3\\com.mizoo.askar.calculator.app-main-27:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Mizoo Askar\\.gradle\\daemon\\7.3.3\\com.mizoo.askar.calculator.app-merged_res-25:\\drawable_ripple.xml.flat",
+        "source": "C:\\Users\\Mizoo Askar\\.gradle\\daemon\\7.3.3\\com.mizoo.askar.calculator.app-main-27:\\drawable\\ripple.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mizoo Askar\\.gradle\\daemon\\7.3.3\\com.mizoo.askar.calculator.app-merged_res-25:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Mizoo Askar\\.gradle\\daemon\\7.3.3\\com.mizoo.askar.calculator.app-main-27:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Mizoo Askar\\.gradle\\daemon\\7.3.3\\com.mizoo.askar.calculator.app-merged_res-25:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Mizoo Askar\\.gradle\\daemon\\7.3.3\\com.mizoo.askar.calculator.app-main-27:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mizoo Askar\\.gradle\\daemon\\7.3.3\\com.mizoo.askar.calculator.app-merged_res-25:\\layout-large_activity_main.xml.flat",
+        "source": "C:\\Users\\Mizoo Askar\\.gradle\\daemon\\7.3.3\\com.mizoo.askar.calculator.app-main-27:\\layout-large\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mizoo Askar\\.gradle\\daemon\\7.3.3\\com.mizoo.askar.calculator.app-merged_res-25:\\layout-normal_activity_main.xml.flat",
+        "source": "C:\\Users\\Mizoo Askar\\.gradle\\daemon\\7.3.3\\com.mizoo.askar.calculator.app-main-27:\\layout-normal\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mizoo Askar\\.gradle\\daemon\\7.3.3\\com.mizoo.askar.calculator.app-merged_res-25:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Mizoo Askar\\.gradle\\daemon\\7.3.3\\com.mizoo.askar.calculator.app-main-27:\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Mizoo Askar\\.gradle\\daemon\\7.3.3\\com.mizoo.askar.calculator.app-merged_res-25:\\layout-normal-land_activity_main.xml.flat",
+        "source": "C:\\Users\\Mizoo Askar\\.gradle\\daemon\\7.3.3\\com.mizoo.askar.calculator.app-main-27:\\layout-normal-land\\activity_main.xml"
+    },
+    {
+        "merged": "com.mizoo.askar.calculator.app-merged_res-25:/layout_activity_main.xml.flat",
+        "source": "com.mizoo.askar.calculator.app-main-27:/layout/activity_main.xml"
+    }
+]

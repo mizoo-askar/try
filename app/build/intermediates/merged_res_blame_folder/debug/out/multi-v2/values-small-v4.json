@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.mizoo.askar.calculator.app-mergeDebugResources-23:/values-small-v4/values-small-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Mizoo Askar\\.gradle\\caches\\transforms-3\\4948de165b5218454019e0897afa16ee\\transformed\\material-1.6.1\\res\\values-small-v4\\values-small-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,128,198,270",
+                        "endColumns": "72,69,71,69",
+                        "endOffsets": "123,193,265,335"
+                    },
+                    "to": {
+                        "startLines": "5,6,7,8",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "182,255,325,397",
+                        "endColumns": "72,69,71,69",
+                        "endOffsets": "250,320,392,462"
+                    }
+                },
+                {
+                    "source": "F:\\Calculator\\app\\src\\main\\res\\values-small\\dimens.xml",
+                    "from": {
+                        "startLines": "8,9,7,4,12,16,13,17",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "215,258,173,99,334,465,382,514",
+                        "endColumns": "41,43,40,49,46,47,49,50",
+                        "endOffsets": "252,297,209,144,376,508,427,560"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,9,10,11,12,13",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,97,141,467,517,564,612,662",
+                        "endColumns": "41,43,40,49,46,47,49,50",
+                        "endOffsets": "92,136,177,512,559,607,657,708"
+                    }
+                }
+            ]
+        }
+    ]
+}
